@@ -13,6 +13,6 @@ public class GroceriesListForecastResource {
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public String getIt(){
-        return "Got it";
+        return "Got it again";
     }
 }
